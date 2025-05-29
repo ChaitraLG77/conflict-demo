@@ -1,1 +1,4 @@
+ HEAD
 Line from master branch
+Line from feature branch
+ feature-branch
